@@ -1,0 +1,59 @@
+header{
+    height: 300px;
+}
+
+.header--title-container .header--button{
+    top: 242px;
+}
+
+.plans-container--slider{
+    justify-content: center;
+}
+
+.product-cards--container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.main-tables-container{
+    display: flex;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.plans-container--card{
+    margin: 50px 20px 0;
+}
+
+.main-currency-table{
+    margin: 0 20px;
+}
+
+.main-plans-container{
+    padding-bottom: 50px;
+}
+
+.plans-container--slider{
+    overflow: hidden;
+}
+
+.main-currency--slider{
+    overflow: hidden;
+}
+
+footer{
+    height: 80px;
+}
+
+footer ul li{
+    display: inline-flex;
+    padding-left: 70px;
+}
+
+.product-detail--batata-logo {
+    top: -18px;
+    width: 65px;
+    height: 39px;
+}
